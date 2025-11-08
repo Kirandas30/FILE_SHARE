@@ -2,6 +2,7 @@ TITLE :
 Network File Sharing Server And Client
 
 INTRODUCTION:
+
 File sharing over a network is a crucial feature in modern computing environments. This project implements a networked file-sharing system using C++, enabling secure communication between clients and a server.
 The server maintains a shared directory of files. Clients can:
 a)Authenticate with username/password
